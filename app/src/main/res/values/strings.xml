@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HaloSee</string>
+    <string name="greeting">Halo, my name is See Kwee Teck</string>
+    <string name="show_message">Show Message</string>
+    <string name="reset">Reset</string>
+</resources>
